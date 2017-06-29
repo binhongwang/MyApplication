@@ -21,6 +21,5 @@ public class MyService extends Service {
     public void onCreate() {
         super.onCreate();
         Log.v("kobe123","MyService-->onCreate");
-        测试一下看看；
     }
 }
