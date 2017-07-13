@@ -20,6 +20,6 @@ public class MyService extends Service {
     @Override
     public void onCreate() {
         super.onCreate();
-        Log.v("kobe123","MyService-->onCreate");
+        Log.v("kobe123", "MyService-->onCreate");
     }
 }
